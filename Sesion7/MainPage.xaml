@@ -6,8 +6,9 @@
     <ScrollView>
         <VerticalStackLayout
             Padding="30,0"
-            Spacing="25">
-
+            Spacing="25"
+            x:Name = "Layout">
+            
             <Label
                 x:Name="RelojLBL"
                 Text=""
